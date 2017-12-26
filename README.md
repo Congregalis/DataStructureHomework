@@ -1,2 +1,0 @@
-# Homework
-for personal use

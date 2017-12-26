@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66ede35-d414-483c-b59c-b5c2b6da0682" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/homework_5/AStack.class" afterPath="$PROJECT_DIR$/bin/homework_5/AStack.class" />
-      <change beforePath="$PROJECT_DIR$/bin/homework_5/myBST.class" afterPath="$PROJECT_DIR$/bin/homework_5/myBST.class" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearchtree/ABST.java" afterPath="$PROJECT_DIR$/src/binarysearchtree/ABST.java" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BST.java" afterPath="$PROJECT_DIR$/src/binarysearchtree/BST.java" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BinNode.java" afterPath="$PROJECT_DIR$/src/binarysearchtree/BinNode.java" />
-      <change beforePath="$PROJECT_DIR$/src/homework_5/AStack.java" afterPath="$PROJECT_DIR$/src/homework_5/AStack.java" />
-      <change beforePath="$PROJECT_DIR$/src/homework_5/Calculater.java" afterPath="$PROJECT_DIR$/src/homework_5/Calculater.java" />
-      <change beforePath="$PROJECT_DIR$/src/homework_5/Node.java" afterPath="$PROJECT_DIR$/src/homework_5/Node.java" />
-      <change beforePath="$PROJECT_DIR$/src/homework_5/myBST.java" afterPath="$PROJECT_DIR$/src/homework_5/myBST.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/AQueue.java" afterPath="$PROJECT_DIR$/src/structure/AQueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/Arithmetic.java" afterPath="$PROJECT_DIR$/src/structure/Arithmetic.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/FullPermutation.java" afterPath="$PROJECT_DIR$/src/structure/FullPermutation.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/Math.java" afterPath="$PROJECT_DIR$/src/structure/Math.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/Mathi.java" afterPath="$PROJECT_DIR$/src/structure/Mathi.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/RadixInQueue.java" afterPath="$PROJECT_DIR$/src/structure/RadixInQueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/RadixSort.java" afterPath="$PROJECT_DIR$/src/structure/RadixSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/State.java" afterPath="$PROJECT_DIR$/src/structure/State.java" />
-      <change beforePath="$PROJECT_DIR$/src/structure/Test.java" afterPath="$PROJECT_DIR$/src/structure/Test.java" />
-    </list>
+    <list default="true" id="a66ede35-d414-483c-b59c-b5c2b6da0682" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="159" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
@@ -370,7 +350,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="43" width="1400" height="990" extended-state="0" />
+    <frame x="159" y="43" width="1400" height="990" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
